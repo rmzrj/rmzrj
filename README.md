@@ -25,7 +25,7 @@
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rmzrj&show_icons=true&theme=vue" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmzrj&show_icons=true&locale=en&layout=compact&theme=vue" alt="dev-afzy" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmzrj&show_icons=true&locale=en&layout=compact&theme=vue" alt="rmzrj" /></p>
 </p>
 
 ### ✍️Random Dev Quote
