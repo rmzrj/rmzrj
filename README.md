@@ -8,7 +8,7 @@
 - 🔭 Software Engineer (Customer Experiences)
 - 🌱 Team players and Contributions are always welcome
 - 👯 Lets connect and build something
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 💬 Ask me about #Flutter #React #NextJs #Go or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
